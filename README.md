@@ -7,8 +7,8 @@ Intelligent App Rating dialog for Qt applications
  1. Fully Customizable 
  2. Set the show delay based on number of times the user opened your application 
  3. Set the show delay based on number of days user has installed your app on his system
- 4. Set delay in after which the app rate dialog should open if all conditions met
- 5. Shows dialog only when user is interacting with the application (application is not minimized)
+ 4. Set  the show delay in milliseconds after which the app rate dialog should open if all show dialog conditions are satisfied
+ 5. Shows dialog only when user is interacting with the application (application is not minimized or user has no focus)
  6. Other intelligence baked in which will not irritate users and ask them gracefully rate your application 
 
 ## Requirements
